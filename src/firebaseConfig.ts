@@ -1,0 +1,18 @@
+/**
+ * Firebase Applet Configuration Object
+ * Generated for Google Workspace and Firebase Auth Integration
+ */
+
+export const firebaseConfig = {
+  projectId: "gen-lang-client-0536970561",
+  appId: "1:729546096167:web:73d62fceb733efe0849802",
+  apiKey: "AIzaSyDj6xddvS5bUlTJaORLej8Q3hi7IDtwUXE",
+  authDomain: "gen-lang-client-0536970561.firebaseapp.com",
+  storageBucket: "gen-lang-client-0536970561.firebasestorage.app",
+  messagingSenderId: "729546096167",
+  measurementId: "",
+  oAuthClientId: "729546096167-quf24cr2mmg7j1s4poa6jd6cq29fsris.apps.googleusercontent.com",
+  recaptchaSiteKey: ""
+};
+
+export default firebaseConfig;

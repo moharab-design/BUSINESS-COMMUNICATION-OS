@@ -1,0 +1,6 @@
+{
+  "name": "Business Communication OS",
+  "description": "Enterprise-grade provider-agnostic business communication operating system unifying mail, calendar, contacts, tasks, schedules, and AI workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
